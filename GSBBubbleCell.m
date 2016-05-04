@@ -8,10 +8,6 @@
 
 #import "GSBBubbleCell.h"
 
-@interface GSBBubbleCell ()
-@property UITableViewCellStyle style;
-@end
-
 @implementation GSBBubbleCell
 
 static const float RADIUS = 15.; // bubble corner radius
